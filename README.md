@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Chiara Zamora
 
-You can use the [editor on GitHub](https://github.com/ChiaraZamoraM/chiarazamora.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Bs. en Ciencia Política y Gobierno por la Pontificia Universidad Católica del Perú.  
+
+Actualmente, soy investigadora en el [Instituto de Analítica Social e Inteligencia Estratégica](https://pulso.pucp.edu.pe/). 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
