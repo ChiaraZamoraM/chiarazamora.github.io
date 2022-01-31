@@ -6,7 +6,10 @@ Actualmente, soy investigadora en el [Instituto de Analítica Social e Inteligen
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Intereses
+* Políticas Públicas
+* Métodos de Investigación
+* Desarrollo sostenible
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
