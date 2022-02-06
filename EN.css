@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1034px;
+  min-height: 1025px;
 }
 
 .u-section-1 .u-text-1 {
@@ -19,7 +19,7 @@
 
 .u-section-1 .u-layout-wrap-1 {
   width: 795px;
-  margin: -9px auto 9px;
+  margin: -9px auto 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -39,7 +39,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 236px;
+  min-height: 193px;
   background-image: none;
 }
 
